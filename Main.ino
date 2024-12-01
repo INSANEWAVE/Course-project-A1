@@ -24,7 +24,7 @@ void loop() {
          
          }
    if( now_time >= second_next_time ){               
-        next_time = now_time + timeout;
+        second_next_time = now_time + timeout2;
           float RPM = counter/0.5;
           Serial.println(RPM);
           counter = 0;
