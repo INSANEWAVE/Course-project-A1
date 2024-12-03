@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "port": "COM7",
-    "sketch": "Main.ino",
+    "sketch": "src.ino",
     "output": "C:/ArduinoOutput"
 }
