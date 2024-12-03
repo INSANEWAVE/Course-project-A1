@@ -2,5 +2,5 @@
     "board": "arduino:avr:uno",
     "port": "COM7",
     "sketch": "src.ino",
-    "output": "C:/ArduinoOutput"
+    "output": "c:/Users/INSANEWAVE/Documents/Курсовая Тахометр Бельтюков А.А/logs"
 }
