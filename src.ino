@@ -1,4 +1,4 @@
-#include <C:\Users\INSANEWAVE\Documents\Servo-1.2.2\src\Servo.h>
+
 unsigned long next_time;
 unsigned long second_next_time; 
 int timeout = 5; // Частота обновления датчика оборотов
